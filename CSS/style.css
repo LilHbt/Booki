@@ -518,6 +518,27 @@ footer h4 {
   .cards-hebergement .card-content {
     height: 65px;
   }
+
+  /*ordre carte hebergement */
+  .order1 {
+    order: 1;
+  }
+  .order2 {
+    order: 2;
+  }
+  .order3 {
+    order: 3;
+  }
+  .order4 {
+    order: 4;
+  }
+  .order5 {
+    order: 5;
+  }
+  .order6 {
+    order: 6;
+  }
+
   /*ACTIVITES*/
   .cards-activites {
     display: flex;
